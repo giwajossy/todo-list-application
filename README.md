@@ -7,7 +7,7 @@ A simple Todo-list App - built using React. You get to add new tasks... Once com
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-[Click to preview Live Demo]()
+[Click to preview Live Demo](https://use-todo-app.netlify.app/)
 
 
 ![App Demo](https://github.com/giwajossy/todo-list-application/blob/main/demo.gif)
