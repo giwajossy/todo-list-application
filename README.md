@@ -41,7 +41,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - Check into the project root directory
 
-`$ cd simple-todolist-app`
+`$ cd todo-list-application`
 
 - Install dependencies by running
 
